@@ -11,6 +11,7 @@
     <groupId>com.sonu</groupId>
     <artifactId>spring-boot-basic-docker</artifactId>
     <version>SNAPSHOT</version>
+	<packaging>war</packaging>
     <name>spring-boot-basic-docker</name>
     <description>Spring Boot Basic Application with get &amp; post &amp; put &amp; delete</description>
     <properties>
