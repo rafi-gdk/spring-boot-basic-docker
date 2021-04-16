@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.sonu</groupId>
-    <artifactId>spring-boot-basic</artifactId>
+    <artifactId>spring-boot-basic-docker</artifactId>
     <version>SNAPSHOT</version>
-    <name>spring-boot-basic</name>
+    <name>spring-boot-basic-docker</name>
     <description>Spring Boot Basic Application with get &amp; post &amp; put &amp; delete</description>
     <properties>
         <java.version>1.8</java.version>
